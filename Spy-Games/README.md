@@ -1,0 +1,1 @@
+A practice to get idea on how to maintain flow of program, use of lists, etc.
