@@ -1,0 +1,1 @@
+Clear your concepts  regarding numpy and most of its functionalities.
